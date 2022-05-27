@@ -14,7 +14,7 @@
             "id": "0255d682-c929-45a2-b19e-9651f290fa49",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -38,7 +38,7 @@
             "id": "04a1a252-399e-4ddf-acc3-db41f1ed225a",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -62,7 +62,7 @@
             "id": "131d7eed-7e1d-4292-bce2-f1ed697c785b",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "mountain-15",
+                "marker-symbol": "mountain",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -86,7 +86,7 @@
             "id": "19f80247-ec5e-4499-9bd8-9f9e3aea74af",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-15",
+                "marker-symbol": "village",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -110,7 +110,7 @@
             "id": "2561d042-ef87-4d4a-94ec-359b30b06fbe",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -134,7 +134,7 @@
             "id": "29589cea-648e-4edb-9b9b-d224f2ee819e",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -158,7 +158,7 @@
             "id": "34c097ec-b01e-46a5-852e-e7fc73b831fb",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "mountain-15",
+                "marker-symbol": "mountain",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "Highest Point on Sanborn Property",
@@ -182,7 +182,7 @@
             "id": "34f7c9a2-2eef-4fe7-8d1a-6f689ca5a6ae",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-15",
+                "marker-symbol": "village",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -206,7 +206,7 @@
             "id": "34feaf48-0304-4c60-bfdd-1dda3c2950e8",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-15",
+                "marker-symbol": "star",
                 "creator": "RD1BFJ",
                 "marker-color": "#000000",
                 "description": "",
@@ -230,7 +230,7 @@
             "id": "3ac16b1f-1bc8-459a-bf77-68e73e5e740b",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-15",
+                "marker-symbol": "village",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -254,7 +254,7 @@
             "id": "4a1286c8-7b8d-4de9-ab93-8d0122cea3db",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -278,7 +278,7 @@
             "id": "57c4a1c4-3512-44af-bb90-4f330992711f",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-15",
+                "marker-symbol": "star",
                 "creator": "RD1BFJ",
                 "marker-color": "#000000",
                 "description": "",
@@ -302,7 +302,7 @@
             "id": "64c24e9b-f4a0-4a2a-bec0-b797a6a606d1",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-15",
+                "marker-symbol": "village",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -326,7 +326,7 @@
             "id": "691ecf40-8ee0-446e-a2a7-09264ccac48e",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-15",
+                "marker-symbol": "village",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -350,7 +350,7 @@
             "id": "6a503c47-df94-4c41-8803-f639cd2bcc0a",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "mountain-15",
+                "marker-symbol": "mountain",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -374,7 +374,7 @@
             "id": "6b0cc6bb-7b7d-4890-aa3f-d183996f6279",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -398,7 +398,7 @@
             "id": "6e67246a-3b5c-407f-8796-e769c17032c7",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -422,7 +422,7 @@
             "id": "70c41049-3bf3-48d2-b202-96d81ab5c8d0",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -446,7 +446,7 @@
             "id": "7ea166ce-fc16-4201-8070-0bcf070b07b6",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -470,7 +470,7 @@
             "id": "804b5188-9cce-4db0-aafe-524755859b80",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -494,7 +494,7 @@
             "id": "80a39cef-8f6c-4a24-aae7-7f7794b8420f",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -518,7 +518,7 @@
             "id": "868f0069-091a-482f-a7a3-d0b6cd5f0d85",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-15",
+                "marker-symbol": "village",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -542,7 +542,7 @@
             "id": "86b823a0-2fe1-468d-ad39-840acb24f850",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-15",
+                "marker-symbol": "village",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -566,7 +566,7 @@
             "id": "8aa0844b-9687-4733-a3b3-106e8f971d01",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -590,7 +590,7 @@
             "id": "8c4e687f-e22b-4e3b-82db-a0052bfa173f",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "attraction-15",
+                "marker-symbol": "attraction",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -614,7 +614,7 @@
             "id": "8c615e28-a559-4627-8ba7-7db595e7deef",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "mountain-15",
+                "marker-symbol": "mountain",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -638,7 +638,7 @@
             "id": "8d207105-f79c-4fc1-9d9e-d47a17e3475a",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-15",
+                "marker-symbol": "star",
                 "creator": "RD1BFJ",
                 "marker-color": "#000000",
                 "description": "",
@@ -662,7 +662,7 @@
             "id": "8d34aa4b-5273-4b0f-a984-b93542df0395",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "attraction-15",
+                "marker-symbol": "attraction",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -686,7 +686,7 @@
             "id": "97507f0f-5598-40ea-888a-8b6a10d017f4",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -710,7 +710,7 @@
             "id": "97bc08fc-838c-4d37-9b67-33c5c144b707",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -734,7 +734,7 @@
             "id": "9c8b9084-c38a-44a3-8d7d-8c518795ef2b",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -758,7 +758,7 @@
             "id": "9ca1fa84-be0a-426e-a553-1c8f8b695f75",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -782,7 +782,7 @@
             "id": "9d46816e-58b1-4918-a0b9-cdbf2fc42f42",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "mountain-15",
+                "marker-symbol": "mountain",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -806,7 +806,7 @@
             "id": "9f2a2508-d12d-4079-aef1-8846bc7ceedc",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -830,7 +830,7 @@
             "id": "9fb2921b-11cf-4a82-b03e-ef6d3cf43787",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -854,7 +854,7 @@
             "id": "a29498bd-d2af-4036-8465-621a1412a113",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -878,7 +878,7 @@
             "id": "a3c25e82-fb5b-455d-bde8-a2fbf9bb22fd",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -902,7 +902,7 @@
             "id": "a6047eb3-d2b9-4a39-975c-7c31862a9d8d",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -926,7 +926,7 @@
             "id": "a63d1e45-ef9a-4817-837d-8e2a3354325e",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -950,7 +950,7 @@
             "id": "a733eaeb-dc06-471c-846e-4db2775ed250",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-15",
+                "marker-symbol": "star",
                 "creator": "RD1BFJ",
                 "marker-color": "#000000",
                 "description": "",
@@ -974,7 +974,7 @@
             "id": "a8821f7e-e44c-4faa-92a7-e297831129f0",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -998,7 +998,7 @@
             "id": "ae644c26-0a7a-4163-bee0-9d3d79219dfe",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -1022,7 +1022,7 @@
             "id": "b1d67e24-5ee3-446d-94b9-30869af94040",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -1046,7 +1046,7 @@
             "id": "b8e1459d-1429-40bb-936f-2b46a3543c57",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-stroked-15",
+                "marker-symbol": "horse-riding",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1070,7 +1070,7 @@
             "id": "bf132f45-a36b-4b80-add9-a1388e44a12a",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-15",
+                "marker-symbol": "village",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1094,7 +1094,7 @@
             "id": "c2a6bf6d-72fe-4add-9546-69bdc7f06c87",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-15",
+                "marker-symbol": "village",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1118,7 +1118,7 @@
             "id": "c2e2672d-3b41-4124-bca5-bab33cd7e253",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "mountain-15",
+                "marker-symbol": "mountain",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1142,7 +1142,7 @@
             "id": "c35572ca-0ab5-4dce-89d3-0fde8d7756e0",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-stroked-15",
+                "marker-symbol": "horse-riding",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1166,7 +1166,7 @@
             "id": "c7deaf34-e4df-4cb8-a8d3-6fe5727953dd",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "mountain-15",
+                "marker-symbol": "mountain",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1190,7 +1190,7 @@
             "id": "c85ccf98-f0a6-45d7-8440-7b5324aeb261",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -1214,7 +1214,7 @@
             "id": "ca1bfed8-340e-4750-b708-1061dd6a52d0",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "mountain-15",
+                "marker-symbol": "mountain",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1238,7 +1238,7 @@
             "id": "d9c2ad40-21fc-42ac-9a4a-74596ab469c4",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -1262,7 +1262,7 @@
             "id": "e9857936-2e59-4ee7-a600-ec78ac6b8320",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "mountain-15",
+                "marker-symbol": "mountain",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1286,7 +1286,7 @@
             "id": "ebe239a3-35c5-4d2c-b50b-28827e891112",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-15",
+                "marker-symbol": "village",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1310,7 +1310,7 @@
             "id": "fd0551aa-a654-4576-80c5-269ba88bf832",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -1334,7 +1334,7 @@
             "id": "fe41370f-5947-49e9-bea2-de315c57c015",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",
@@ -1358,7 +1358,7 @@
             "id": "ff87b26f-95cc-4cff-a8d7-811f1faa5505",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "circle-15",
+                "marker-symbol": "circle",
                 "creator": "RD1BFJ",
                 "marker-color": "#0000FF",
                 "description": "",

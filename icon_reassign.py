@@ -17,7 +17,7 @@ for feature in data['features']:
 
 print(marker_types)
 
-icons = ['circle-15', 'mountain-15', 'village-15', 'star-15', 'attraction-15', 'attraction-15', 'circle-stroked-15']
+icons = ['circle', 'mountain', 'village', 'star', 'attraction', 'attraction', 'horse-riding']
 
 for feature in data['features']:
     color = feature['properties']['marker-color']
