@@ -1,9 +1,9 @@
 import json
 import os
 import pprint
-import geopandas as gpd
 
-os.chdir(r'C:\Users\phwh9568\OneDrive - UCB-O365\UCB\Documents\Sanborn_Map')
+
+os.chdir(r'C:\Users\phwh9568\Sanborn_Map')
 
 file = open('Staff_Map.json')
 
@@ -29,5 +29,5 @@ with open('Sanborn_Points.geojson', 'w') as outFile:
 with open('Sanborn_Lines.geojson', 'w') as outFile:
     json.dump(outLines,outFile,indent=4)
 
-
+file.close()
 #outData['features'].append('x')
