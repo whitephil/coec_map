@@ -19,12 +19,15 @@ for feature in data['features']:
 
 icons = ['circle-11', 'village-11', 'mountain-11', 'star-11', 'attraction-11', 'attraction-11', 'circle-stroked-11']
 
+for feature in data['features']:
+    color = feature['properties']['marker-color']
+    color = '#'+color
+    feature['properties']['marker-color'] = color
+
+
 for i in range(len(marker_types)):
     for feature in data['features']:
         if feature['geometry']['type'] == 'Point':
-            color = feature['properties']['marker-color']
-            color = '#'+color
-            feature['properties']['marker-color'] = color
             if feature['properties']['marker-symbol'] == marker_types[i]:
                 feature['properties']['marker-symbol'] = icons[i]
 
