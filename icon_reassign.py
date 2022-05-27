@@ -15,9 +15,9 @@ for feature in data['features']:
         if marker_type not in marker_types:
             marker_types.append(marker_type)
 
-#print(marker_types)
+print(marker_types)
 
-icons = ['circle-15', 'village-15', 'mountain-15', 'star-15', 'attraction-15', 'attraction-15', 'circle-stroked-15']
+icons = ['circle-15', 'mountain-15', 'village-15', 'star-15', 'attraction-15', 'attraction-15', 'circle-stroked-15']
 
 for feature in data['features']:
     color = feature['properties']['marker-color']
