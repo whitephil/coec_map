@@ -16,7 +16,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Bull Spring",
                 "marker-size": "1",
@@ -40,7 +40,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Hummer Spring",
                 "marker-size": "1",
@@ -64,7 +64,7 @@
             "properties": {
                 "marker-symbol": "village-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Top of the World",
                 "marker-size": "0.5",
@@ -88,7 +88,7 @@
             "properties": {
                 "marker-symbol": "mountain-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Witcher Ranch",
                 "marker-size": "0.5",
@@ -112,7 +112,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Hay Meadow Spring",
                 "marker-size": "1",
@@ -136,7 +136,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Dead Cow Spring",
                 "marker-size": "1",
@@ -160,7 +160,7 @@
             "properties": {
                 "marker-symbol": "village-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "Highest Point on Sanborn Property",
                 "title": "Buzzard Rocks",
                 "marker-size": "0.5",
@@ -184,7 +184,7 @@
             "properties": {
                 "marker-symbol": "mountain-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Big Spring Office",
                 "marker-size": "0.5",
@@ -208,7 +208,7 @@
             "properties": {
                 "marker-symbol": "star-11",
                 "creator": "RD1BFJ",
-                "marker-color": "000000",
+                "marker-color": "#######000000",
                 "description": "",
                 "title": "Bat Caves",
                 "marker-size": "0.5",
@@ -232,7 +232,7 @@
             "properties": {
                 "marker-symbol": "mountain-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Fish Creek Homestead",
                 "marker-size": "0.5",
@@ -256,7 +256,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Quick's Spring",
                 "marker-size": "1",
@@ -280,7 +280,7 @@
             "properties": {
                 "marker-symbol": "star-11",
                 "creator": "RD1BFJ",
-                "marker-color": "000000",
+                "marker-color": "#######000000",
                 "description": "",
                 "title": "Copper Mines",
                 "marker-size": "0.5",
@@ -304,7 +304,7 @@
             "properties": {
                 "marker-symbol": "mountain-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Copper Mine Log Cabin",
                 "marker-size": "0.5",
@@ -328,7 +328,7 @@
             "properties": {
                 "marker-symbol": "mountain-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Quick's Homestead",
                 "marker-size": "0.5",
@@ -352,7 +352,7 @@
             "properties": {
                 "marker-symbol": "village-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Witcher Rocks",
                 "marker-size": "0.5",
@@ -376,7 +376,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Yurt Spring (Gone)",
                 "marker-size": "1",
@@ -400,7 +400,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Well Well Spring",
                 "marker-size": "1",
@@ -424,7 +424,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Lost Lake Spring",
                 "marker-size": "1",
@@ -448,7 +448,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Fish Creek Spring",
                 "marker-size": "1",
@@ -472,7 +472,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Windy Ridge Spring",
                 "marker-size": "1",
@@ -496,7 +496,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Horse Pasture Spring",
                 "marker-size": "1",
@@ -520,7 +520,7 @@
             "properties": {
                 "marker-symbol": "mountain-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "The Nature Place",
                 "marker-size": "0.5",
@@ -544,7 +544,7 @@
             "properties": {
                 "marker-symbol": "mountain-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Leo's",
                 "marker-size": "0.5",
@@ -568,7 +568,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "PPRS South Spring",
                 "marker-size": "1",
@@ -592,7 +592,7 @@
             "properties": {
                 "marker-symbol": "attraction-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Owl Tree",
                 "marker-size": "0.5",
@@ -616,7 +616,7 @@
             "properties": {
                 "marker-symbol": "village-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "A-Bluff",
                 "marker-size": "0.5",
@@ -640,7 +640,7 @@
             "properties": {
                 "marker-symbol": "star-11",
                 "creator": "RD1BFJ",
-                "marker-color": "000000",
+                "marker-color": "#######000000",
                 "description": "",
                 "title": "Ropes Course",
                 "marker-size": "0.5",
@@ -664,7 +664,7 @@
             "properties": {
                 "marker-symbol": "attraction-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Observatory",
                 "marker-size": "0.5",
@@ -688,7 +688,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Solar Hut Spring",
                 "marker-size": "1",
@@ -712,7 +712,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Witcher Ranch Spring",
                 "marker-size": "1",
@@ -736,7 +736,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Tie Cabin Spring (Dry)",
                 "marker-size": "1",
@@ -760,7 +760,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "North Mayo Spring",
                 "marker-size": "1",
@@ -784,7 +784,7 @@
             "properties": {
                 "marker-symbol": "village-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "B-Bluff",
                 "marker-size": "0.5",
@@ -808,7 +808,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Pott's Spring",
                 "marker-size": "1",
@@ -832,7 +832,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "TP Village Spring",
                 "marker-size": "1",
@@ -856,7 +856,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Lower High Tor Spring",
                 "marker-size": "1",
@@ -880,7 +880,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Wild Goat Spring",
                 "marker-size": "1",
@@ -904,7 +904,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "South Mayo Spring (Gone)",
                 "marker-size": "1",
@@ -928,7 +928,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Beyond A-Bluff Spring",
                 "marker-size": "1",
@@ -952,7 +952,7 @@
             "properties": {
                 "marker-symbol": "star-11",
                 "creator": "RD1BFJ",
-                "marker-color": "000000",
+                "marker-color": "#######000000",
                 "description": "",
                 "title": "Crystal Beds",
                 "marker-size": "0.5",
@@ -976,7 +976,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Four Meadows Spring",
                 "marker-size": "1",
@@ -1000,7 +1000,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Mule Deer Spring (Dry)",
                 "marker-size": "1",
@@ -1024,7 +1024,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Upper High Tor Spring",
                 "marker-size": "1",
@@ -1048,7 +1048,7 @@
             "properties": {
                 "marker-symbol": "circle-stroked-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "BS Arena",
                 "marker-size": "0.5",
@@ -1072,7 +1072,7 @@
             "properties": {
                 "marker-symbol": "mountain-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "High Trails Lodge",
                 "marker-size": "0.5",
@@ -1096,7 +1096,7 @@
             "properties": {
                 "marker-symbol": "mountain-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Tie Cabin",
                 "marker-size": "0.5",
@@ -1120,7 +1120,7 @@
             "properties": {
                 "marker-symbol": "village-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Sue Rocks",
                 "marker-size": "0.5",
@@ -1144,7 +1144,7 @@
             "properties": {
                 "marker-symbol": "circle-stroked-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "HT Arena",
                 "marker-size": "0.5",
@@ -1168,7 +1168,7 @@
             "properties": {
                 "marker-symbol": "village-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Little Blue",
                 "marker-size": "0.5",
@@ -1192,7 +1192,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Witcher Pond Spring",
                 "marker-size": "1",
@@ -1216,7 +1216,7 @@
             "properties": {
                 "marker-symbol": "village-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Three Bears",
                 "marker-size": "0.5",
@@ -1240,7 +1240,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "North Bottlegate Spring",
                 "marker-size": "1",
@@ -1264,7 +1264,7 @@
             "properties": {
                 "marker-symbol": "village-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "C-Bluff",
                 "marker-size": "0.5",
@@ -1288,7 +1288,7 @@
             "properties": {
                 "marker-symbol": "mountain-11",
                 "creator": "RD1BFJ",
-                "marker-color": "00CD00",
+                "marker-color": "#######00CD00",
                 "description": "",
                 "title": "Interbarn",
                 "marker-size": "0.5",
@@ -1312,7 +1312,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "Aspen Spring",
                 "marker-size": "1",
@@ -1336,7 +1336,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "PPRS North Spring",
                 "marker-size": "1",
@@ -1360,7 +1360,7 @@
             "properties": {
                 "marker-symbol": "circle-11",
                 "creator": "RD1BFJ",
-                "marker-color": "0000FF",
+                "marker-color": "#######0000FF",
                 "description": "",
                 "title": "South Bottlegate Spring",
                 "marker-size": "1",

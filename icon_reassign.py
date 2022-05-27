@@ -15,19 +15,22 @@ for feature in data['features']:
         if marker_type not in marker_types:
             marker_types.append(marker_type)
 
-print(marker_types)
+#print(marker_types)
 
 icons = ['circle-11', 'village-11', 'mountain-11', 'star-11', 'attraction-11', 'attraction-11', 'circle-stroked-11']
 
 for i in range(len(marker_types)):
     for feature in data['features']:
         if feature['geometry']['type'] == 'Point':
+            color = feature['properties']['marker-color']
+            color = '#'+color
+            feature['properties']['marker-color'] = color
             if feature['properties']['marker-symbol'] == marker_types[i]:
                 feature['properties']['marker-symbol'] = icons[i]
 
 
 
-with open('Sanborn_icons.geojson', 'w', encoding='utf-8') as outFile:
+with open('Sanborn_Icons.geojson', 'w', encoding='utf-8') as outFile:
     json.dump(data,outFile, indent=4)
 
 file.close()
