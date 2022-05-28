@@ -1,8 +1,27 @@
 {
     "type": "FeatureCollection",
+    "name": "Sanborn_Lines",
     "features": [
         {
+            "type": "Feature",
+            "id": "06482efe-c889-4483-9924-c69531cf8d43",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#840000",
+                "title": "Tie Cabin Rd",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1652992411000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.21
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3151216284948,
@@ -60,28 +79,29 @@
                         -105.3150163645132,
                         38.87413459875825
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "06482efe-c889-4483-9924-c69531cf8d43",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#840000",
-                "title": "Tie Cabin Rd",
-                "stroke": "#840000",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1652992411000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "08fbb77a-d14c-4efe-b921-3a58238cc3a5",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 3,
+                "fill": "#840000",
+                "title": "Witcher Rd",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003918000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 2.48
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3099493054791,
@@ -523,28 +543,29 @@
                         -105.3237299196838,
                         38.85844937779459
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "08fbb77a-d14c-4efe-b921-3a58238cc3a5",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 3,
-                "fill": "#840000",
-                "title": "Witcher Rd",
-                "stroke": "#840000",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003918000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "0a473b5c-840e-4852-8f6a-09d805c48ca0",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#EC7600",
+                "title": "Copper Mine Trail",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003371000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.16
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3396612802065,
@@ -614,28 +635,29 @@
                         -105.3426192943912,
                         38.91232379322068
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "0a473b5c-840e-4852-8f6a-09d805c48ca0",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "0adb35fa-fc12-40f7-b890-0827398e984a",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "Copper Mine Trail",
+                "title": "The Ark to Red Star Trail",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003371000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003825000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.23
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3294432856821,
@@ -721,28 +743,29 @@
                         -105.3282719363813,
                         38.89996096134263
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "0adb35fa-fc12-40f7-b890-0827398e984a",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "0b0c1157-3c28-40a1-a551-0ca267c37a2c",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "The Ark to Red Star Trail",
+                "title": "BS Office to Sawmill",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003825000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003316000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.46
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3296186165544,
@@ -766,7 +789,7 @@
                     ],
                     [
                         -105.329168036809,
-                        38.90324605000001
+                        38.90324605
                     ],
                     [
                         -105.3290716360981,
@@ -984,28 +1007,29 @@
                         -105.322513226153,
                         38.90442595559022
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "0b0c1157-3c28-40a1-a551-0ca267c37a2c",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "0c205271-2e45-4e78-a907-fd7ddc0030e8",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "BS Office to Sawmill",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#311700",
+                "title": "Stagecoach Rd",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003316000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003796000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.24
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3297159228155,
@@ -1439,28 +1463,29 @@
                         -105.3345493572312,
                         38.88998073366874
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "0c205271-2e45-4e78-a907-fd7ddc0030e8",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "0c2ec869-735c-4c92-a048-27fd211f50a6",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#311700",
-                "title": "Stagecoach Rd",
-                "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill": "#AA00FF",
+                "title": "I Don't Know Trail",
+                "stroke": "#AA00FF",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003796000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003604000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.43
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3250753846751,
@@ -1806,28 +1831,29 @@
                         -105.3213166958782,
                         38.87952576456964
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "0c2ec869-735c-4c92-a048-27fd211f50a6",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "0f13c4ca-5817-4c89-8b36-940fd6f955a0",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#AA00FF",
-                "title": "I Don't Know Trail",
-                "stroke": "#AA00FF",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "White House Trail",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003604000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003895000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.96
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3091224341998,
@@ -2149,28 +2175,29 @@
                         -105.3137576835906,
                         38.89134883943925
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "0f13c4ca-5817-4c89-8b36-940fd6f955a0",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "White House Trail",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003895000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "0fe9bb56-3c9a-492c-8308-81877a9f1ff6",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 3,
+                "fill": "#840000",
+                "title": "Sanborn Drive",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003782000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 3.57
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3232199820395,
@@ -2980,28 +3007,29 @@
                         -105.3260450324759,
                         38.8889571071939
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "0fe9bb56-3c9a-492c-8308-81877a9f1ff6",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 3,
-                "fill": "#840000",
-                "title": "Sanborn Drive",
-                "stroke": "#840000",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003782000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "103fffe9-3a17-4d1b-afa1-71c340a3a88e",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#EC7600",
+                "title": "Witcher Pond to PPRS",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003914000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.66
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3116395663417,
@@ -3139,28 +3167,29 @@
                         -105.302460100755,
                         38.85638975103581
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "103fffe9-3a17-4d1b-afa1-71c340a3a88e",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "1676c50a-83fb-4ddc-bc19-89866d963f2f",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "Witcher Pond to PPRS",
+                "title": "Beyond A-Bluff Valley to Witcher Ranch",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003914000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003279000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.59
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3283136145392,
@@ -3278,28 +3307,29 @@
                         -105.3264449646716,
                         38.86700161529052
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "1676c50a-83fb-4ddc-bc19-89866d963f2f",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "187f8027-30fd-4ba3-ba2b-6b9308d30cbc",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Beyond A-Bluff Valley to Witcher Ranch",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#840000",
+                "title": "Ropes Course Rd",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003279000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003775000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.28
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3225132099593,
@@ -3441,28 +3471,29 @@
                         -105.3193211204595,
                         38.90506985192197
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "187f8027-30fd-4ba3-ba2b-6b9308d30cbc",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "1993a160-329a-40d7-bfd8-5aa95f1f34ac",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#840000",
-                "title": "Ropes Course Rd",
-                "stroke": "#840000",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "Sue Rocks to ?",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003775000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003817000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.56
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3072676932231,
@@ -3672,28 +3703,29 @@
                         -105.3006151077986,
                         38.9002465087346
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "1993a160-329a-40d7-bfd8-5aa95f1f34ac",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "1bf2a091-d6f0-459f-9769-3a19a4f0fdd3",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "Sue Rocks to ?",
+                "title": "Quick's Homestead to Solar Hut",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003817000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003758000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.29
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3144276513723,
@@ -3803,28 +3835,29 @@
                         -105.3145893329266,
                         38.88331254821766
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "1bf2a091-d6f0-459f-9769-3a19a4f0fdd3",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "1d78c822-fa1c-4be3-a02d-bb52a5b0231c",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "Quick's Homestead to Solar Hut",
+                "title": "Mule Deer and Well Well Trail",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003758000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003729000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.37
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3552991944432,
@@ -3906,28 +3939,29 @@
                         -105.3505892951246,
                         38.909148448365
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "1d78c822-fa1c-4be3-a02d-bb52a5b0231c",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "1f4e81ba-cb56-4315-800d-33b9e475df4f",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Mule Deer and Well Well Trail",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#311700",
+                "title": "BS Rifle Range Rd",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003729000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003320000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.2
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3274999740483,
@@ -4005,28 +4039,29 @@
                         -105.3246548279283,
                         38.89863057478024
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "1f4e81ba-cb56-4315-800d-33b9e475df4f",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "21775263-712f-441e-b1f8-e431136c04b9",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#311700",
-                "title": "BS Rifle Range Rd",
-                "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "Solar Hut to Upper High Tor Rd",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003320000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003791000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.21
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3147733369872,
@@ -4144,28 +4179,29 @@
                         -105.3141352281371,
                         38.880189995682
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "21775263-712f-441e-b1f8-e431136c04b9",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "23205945-d368-4fb3-8310-88b7612b7f4c",
             "properties": {
-                "stroke-opacity": "",
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "Solar Hut to Upper High Tor Rd",
+                "title": "MOPQ/HKL Loop to Treehouse Rd",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003791000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003725000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.42
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3312142988343,
@@ -4311,28 +4347,29 @@
                         -105.3282457110744,
                         38.89820496603895
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "23205945-d368-4fb3-8310-88b7612b7f4c",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "238b00d8-5b51-4b78-9a4f-9a3c0513b398",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "MOPQ/HKL Loop to Treehouse Rd",
+                "title": "Solar Hut to High Tor Spring",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003725000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003786000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.25
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3145838955325,
@@ -4478,28 +4515,29 @@
                         -105.3181351896295,
                         38.88146055220018
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "238b00d8-5b51-4b78-9a4f-9a3c0513b398",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "2455d645-57c1-4611-a5ec-72eb89f83f2e",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Solar Hut to High Tor Spring",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#311700",
+                "title": "A-Bluff Trail",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003786000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003245000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.49
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.328897285717,
@@ -4697,28 +4735,29 @@
                         -105.3284037890517,
                         38.88276116514822
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "2455d645-57c1-4611-a5ec-72eb89f83f2e",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "2d56d19b-42af-4349-a6a9-18302cf09f41",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#311700",
-                "title": "A-Bluff Trail",
-                "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "Valley below Quick's to PPRS Rd",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003245000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003882000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.32
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3167589762581,
@@ -4816,28 +4855,29 @@
                         -105.3118126751861,
                         38.88797379604976
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "2d56d19b-42af-4349-a6a9-18302cf09f41",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "3019c67f-00f1-4827-9a45-47fb5310cbb1",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Valley below Quick's to PPRS Rd",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#840000",
+                "title": "TNP Rd",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003882000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1652992420000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.39
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3247850046968,
@@ -4999,28 +5039,29 @@
                         -105.322945416543,
                         38.9027828059588
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "3019c67f-00f1-4827-9a45-47fb5310cbb1",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#840000",
-                "title": "TNP Rd",
-                "stroke": "#840000",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1652992420000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "33b86f65-8915-4546-9a7f-dc0b7a29157e",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 1,
+                "fill": "#311700",
+                "title": "Over the Top Rd",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1652991995000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.97
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.342701644251,
@@ -5710,28 +5751,29 @@
                         -105.3260460260625,
                         38.86689141634509
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "33b86f65-8915-4546-9a7f-dc0b7a29157e",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 1,
-                "fill": "#311700",
-                "title": "Over the Top Rd",
-                "stroke": "#311700",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1652991995000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "342818b6-8a9c-4391-9c83-95beeefa3fa5",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#EC7600",
+                "title": "2nd CG to Potts Spring",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003202000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.05
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3091453292128,
@@ -5941,28 +5983,29 @@
                         -105.2999913955828,
                         38.8736586024049
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "342818b6-8a9c-4391-9c83-95beeefa3fa5",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "37fe1d07-d1de-4967-8963-a86bfe2a4e5e",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "2nd CG to Potts Spring",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#840000",
+                "title": "PPRS Drive",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003202000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1652992164000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.15
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3019356203379,
@@ -6008,28 +6051,29 @@
                         -105.3024580964543,
                         38.85639251310366
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "37fe1d07-d1de-4967-8963-a86bfe2a4e5e",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "3d368830-0d88-4606-9ba5-3a0287289ac7",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#840000",
-                "title": "PPRS Drive",
-                "stroke": "#840000",
-                "fill-opacity": 0,
+                "fill": "#CA864A",
+                "title": "Dead Cow #4",
+                "stroke": "#CA864A",
+                "fill-opacity": 0.1,
                 "class": "Shape",
-                "updated": 1652992164000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003390000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.35
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.35597519416444,
@@ -6059,28 +6103,29 @@
                         -105.35469846267335,
                         38.881398021624314
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "3d368830-0d88-4606-9ba5-3a0287289ac7",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "3f6fb73d-19f2-473b-9c47-3a1efd95a5e1",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#CA864A",
-                "title": "Dead Cow #4",
-                "stroke": "#CA864A",
-                "fill-opacity": 0.1,
+                "fill": "#000096",
+                "title": "BOBROD Wheelin' Trail (West)",
+                "stroke": "#000096",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003390000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003307000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.55
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3173822828361,
@@ -6302,28 +6347,29 @@
                         -105.3159495320857,
                         38.8928799537236
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "3f6fb73d-19f2-473b-9c47-3a1efd95a5e1",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "3faa9da9-469a-4f74-9238-a44cc02fad39",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#000096",
-                "title": "BOBROD Wheelin' Trail (West)",
-                "stroke": "#000096",
-                "fill-opacity": 0,
+                "fill": "#840000",
+                "title": "PPRS Rd",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003307000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1652992174000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 4.01
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3259132700957,
@@ -7113,28 +7159,28 @@
                         -105.3019978902079,
                         38.85433952083481
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "3faa9da9-469a-4f74-9238-a44cc02fad39",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "4119eb43-4e88-42f1-824f-4cef7dd90c6f",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#840000",
-                "title": "PPRS Rd",
-                "stroke": "#840000",
-                "fill-opacity": 0,
+                "fill": "#FFAA00",
+                "title": "Tick Track to Hummer Spring",
+                "stroke": "#FFAA00",
                 "class": "Shape",
-                "updated": 1652992174000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003834000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.21
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.34525143513306,
@@ -7156,27 +7202,29 @@
                         -105.3484271706067,
                         38.889402298136396
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "4119eb43-4e88-42f1-824f-4cef7dd90c6f",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "45966ad3-9fda-42ce-b04b-772a50f875e4",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "title": "Tick Track to Hummer Spring",
-                "fill": "#FFAA00",
-                "stroke": "#FFAA00",
+                "fill": "#EC7600",
+                "title": "Tick Track to Over the Top Rd via Indian Meadow",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003834000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003846000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.57
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3340801452076,
@@ -7350,28 +7398,29 @@
                         -105.3385731965904,
                         38.88354072618777
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "45966ad3-9fda-42ce-b04b-772a50f875e4",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "480252ef-f4a4-498b-b3db-27ce0b30621c",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "Tick Track to Over the Top Rd via Indian Meadow",
+                "title": "Beyond Four Meadow Trail",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003846000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003284000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.4
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3611454892416,
@@ -7445,28 +7494,29 @@
                         -105.3650277532939,
                         38.90470328166706
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "480252ef-f4a4-498b-b3db-27ce0b30621c",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Beyond Four Meadow Trail",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003284000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "4a300d64-821d-462b-9394-966fe67efca0",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 3,
+                "fill": "#840000",
+                "title": "Interbarn Rd",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003609000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.18
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3266609771597,
@@ -7520,28 +7570,28 @@
                         -105.3287354360138,
                         38.89324295596066
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "4a300d64-821d-462b-9394-966fe67efca0",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 3,
-                "fill": "#840000",
-                "title": "Interbarn Rd",
-                "stroke": "#840000",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003609000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "4aabb6c3-d137-4384-8bed-ca4be3032626",
+            "properties": {
+                "stroke-opacity": "0.648438",
+                "creator": "RD1BFJ",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#EC7600",
+                "title": "Lost Lake to Fish Creek",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653013978000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.35
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3525795496474,
@@ -7767,27 +7817,29 @@
                         -105.3672565019941,
                         38.87641335189866
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "4aabb6c3-d137-4384-8bed-ca4be3032626",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 0.64843804,
-                "creator": "RD1BFJ",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Lost Lake to Fish Creek",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653013978000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "52c2c76c-a225-46af-8c0a-69fba245d959",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#EC7600",
+                "title": "Upper High Tor to C-Bluff",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003878000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.48
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3181377359007,
@@ -8001,28 +8053,29 @@
                         -105.3251699322367,
                         38.8797871995211
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "52c2c76c-a225-46af-8c0a-69fba245d959",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "5577c4e1-1819-4145-88f7-3908bfafe395",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Upper High Tor to C-Bluff",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#311700",
+                "title": "Tick Track",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003878000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003830000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.77
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3266292853426,
@@ -8488,28 +8541,29 @@
                         -105.3573439020546,
                         38.88730092901011
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "5577c4e1-1819-4145-88f7-3908bfafe395",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "557f0d23-86e6-4d29-963a-89d4ec4c28e8",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#311700",
-                "title": "Tick Track",
+                "title": "HT to Quick's Homestead",
                 "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003830000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003490000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.66
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3281277269402,
@@ -8627,28 +8681,29 @@
                         -105.317223798758,
                         38.88970119580674
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "557f0d23-86e6-4d29-963a-89d4ec4c28e8",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "56d96de9-8a0e-4d6a-8b9c-a3fbd4ee9270",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#311700",
-                "title": "HT to Quick's Homestead",
+                "title": "Candy Cane Ln to Fish Creek Rd",
                 "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003490000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003365000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.65
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3407895547952,
@@ -9114,28 +9169,29 @@
                         -105.3647716100516,
                         38.87808826067641
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "56d96de9-8a0e-4d6a-8b9c-a3fbd4ee9270",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "679d3ecc-d544-4631-891a-34c777fcc071",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#311700",
-                "title": "Candy Cane Ln to Fish Creek Rd",
-                "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill": "#840000",
+                "title": "Jerry McClain Parkway",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003365000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003646000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.55
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3285952416522,
@@ -9325,28 +9381,29 @@
                         -105.328242014902,
                         38.90270641619635
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "679d3ecc-d544-4631-891a-34c777fcc071",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "68eb9e21-21a0-41c2-ada6-1e5c5c581fb1",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#840000",
-                "title": "Jerry McClain Parkway",
-                "stroke": "#840000",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "Bat Caves to Fossil Beds",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003646000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003266000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.55
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3062476692352,
@@ -9776,28 +9833,29 @@
                         -105.28538085971,
                         38.91364342366319
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "68eb9e21-21a0-41c2-ada6-1e5c5c581fb1",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "6f2083c4-d4be-4d74-aea5-2c26ab0312d9",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Bat Caves to Fossil Beds",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#311700",
+                "title": "Tick Track to Little Blue",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003266000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003838000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.72
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3416779793902,
@@ -9923,28 +9981,29 @@
                         -105.3376323867352,
                         38.89236499565286
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "6f2083c4-d4be-4d74-aea5-2c26ab0312d9",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "6f44c78d-358f-400d-915d-e3452d7336d7",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#311700",
-                "title": "Tick Track to Little Blue",
-                "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "Quick's Trail to BOBROD",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003838000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003762000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.23
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3175754323741,
@@ -9998,28 +10057,28 @@
                         -105.3173714924662,
                         38.89925979303852
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "6f44c78d-358f-400d-915d-e3452d7336d7",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Quick's Trail to BOBROD",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003762000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "70c3e4a3-eca0-4b17-a531-acf0e419ee1b",
+            "properties": {
+                "stroke-opacity": "0.648438",
+                "creator": "RD1BFJ",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#EC7600",
+                "title": "Potts Spring to PPRS",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1652991339000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.4
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.299993419529,
@@ -10333,27 +10392,29 @@
                         -105.2990437372817,
                         38.85519242014325
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "70c3e4a3-eca0-4b17-a531-acf0e419ee1b",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 0.64843804,
-                "creator": "RD1BFJ",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Potts Spring to PPRS",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1652991339000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "710a23c5-5e9b-4164-a77a-b149455ecef9",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#EC7600",
+                "title": "Bull Spring to I Don't Know Trail",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003324000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.29
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3233804939898,
@@ -10427,28 +10488,29 @@
                         -105.3221768352599,
                         38.8764748883093
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "710a23c5-5e9b-4164-a77a-b149455ecef9",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Bull Spring to I Don't Know Trail",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003324000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "74db727d-ac7b-4d88-bd24-7661d5c769c3",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 1,
+                "fill": "#EC7600",
+                "title": "Over the Top Rd to Aspen Spring",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1652992002000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.41
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3366883663117,
@@ -10590,28 +10652,28 @@
                         -105.3416736843353,
                         38.87946264297636
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "74db727d-ac7b-4d88-bd24-7661d5c769c3",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 1,
-                "fill": "#EC7600",
-                "title": "Over the Top Rd to Aspen Spring",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1652992002000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "783d5628-275f-4a43-8033-f99674aaae71",
+            "properties": {
+                "stroke-opacity": "0.648438",
+                "creator": "RD1BFJ",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#EC7600",
+                "title": "Lost Lake to Dead Cow Spring",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653013978000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.7
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.355223471803,
@@ -10685,27 +10747,29 @@
                         -105.3561885123389,
                         38.8755226683984
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "783d5628-275f-4a43-8033-f99674aaae71",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 0.64843804,
-                "creator": "RD1BFJ",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Lost Lake to Dead Cow Spring",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653013978000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "7c236e06-ea01-4192-989f-c26d6456c736",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#EC7600",
+                "title": "Quick's Homestead to Pott's Spring",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003754000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.67
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3172646316932,
@@ -11307,28 +11371,29 @@
                         -105.3000073342352,
                         38.87365022453034
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "7c236e06-ea01-4192-989f-c26d6456c736",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "7d062824-f913-4f5e-97b7-ab3fa3a61233",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Quick's Homestead to Pott's Spring",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#EAEA00",
+                "title": "Sunshine Trail",
+                "stroke": "#EAEA00",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003754000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003821000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.9
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3277741215348,
@@ -11778,28 +11843,29 @@
                         -105.352654632214,
                         38.86128007970874
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "7d062824-f913-4f5e-97b7-ab3fa3a61233",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "7d76169f-e5e9-4d6e-8ad8-32ee12b9985c",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EAEA00",
-                "title": "Sunshine Trail",
-                "stroke": "#EAEA00",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "ABC Cooksite to Sunday Rocks",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003821000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003250000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.73
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.332410869551,
@@ -12045,28 +12111,29 @@
                         -105.3285073031023,
                         38.89162646011477
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "7d76169f-e5e9-4d6e-8ad8-32ee12b9985c",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "804abee0-dd89-45dd-a997-4cc6e210245c",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "ABC Cooksite to Sunday Rocks",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#311700",
+                "title": "Four Meadows Spring to Windy Ridge Spring",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003250000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003462000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.99
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3610116771338,
@@ -12252,28 +12319,29 @@
                         -105.3529976064887,
                         38.91258800019347
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "804abee0-dd89-45dd-a997-4cc6e210245c",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "816785f4-b504-4ab5-9c89-9a106a379aa8",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#311700",
-                "title": "Four Meadows Spring to Windy Ridge Spring",
+                "title": "Treehouse Rd",
                 "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003462000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003874000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.43
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3275010918526,
@@ -12403,28 +12471,29 @@
                         -105.3266653978258,
                         38.89443175098723
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "816785f4-b504-4ab5-9c89-9a106a379aa8",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "85eb1c93-c58c-4b7a-9826-af0586f1a8af",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#311700",
-                "title": "Treehouse Rd",
+                "title": "Bottlegate Trail",
                 "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003874000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003311000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.03
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3549632620179,
@@ -12618,28 +12687,29 @@
                         -105.3595845333667,
                         38.90286754061521
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "85eb1c93-c58c-4b7a-9826-af0586f1a8af",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "87430c59-541b-4198-8950-42a44a2302af",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#311700",
-                "title": "Bottlegate Trail",
-                "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "White House to Sue Rocks",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003311000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003886000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.2
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3052192047348,
@@ -13085,28 +13155,29 @@
                         -105.3134782798295,
                         38.90414282868445
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "87430c59-541b-4198-8950-42a44a2302af",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "8a445436-2f3e-4d64-b4de-6a491f2c1738",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "White House to Sue Rocks",
+                "title": "Trail behind HKL",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003886000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003870000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.3
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3305127230047,
@@ -13160,28 +13231,29 @@
                         -105.3336250235497,
                         38.89566617607277
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "8a445436-2f3e-4d64-b4de-6a491f2c1738",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "8b16934a-86b3-4c0f-9925-6ea8d1b5e602",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "Trail behind HKL",
+                "title": "Antelope Ridge to North Bottlegate via Unnamed Spring",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003870000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003257000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.96
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3437236480275,
@@ -13463,28 +13535,29 @@
                         -105.3552277546624,
                         38.90101475909982
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "8b16934a-86b3-4c0f-9925-6ea8d1b5e602",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "8bf19dbd-6269-4992-8b08-8cf3bf97c2ec",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Antelope Ridge to North Bottlegate via Unnamed Spring",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#009DEC",
+                "title": "Bat Caves",
+                "stroke": "#009DEC",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003257000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003261000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.18
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3223365237254,
@@ -14014,28 +14087,29 @@
                         -105.3062527515299,
                         38.91155871608877
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "8bf19dbd-6269-4992-8b08-8cf3bf97c2ec",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "9225a75d-800d-4afb-b4bd-a810f5c828dd",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#009DEC",
-                "title": "Bat Caves",
-                "stroke": "#009DEC",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "PPRS S Trail",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003261000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003746000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.75
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3020491600375,
@@ -14201,28 +14275,29 @@
                         -105.2986611833086,
                         38.84474756105697
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "9225a75d-800d-4afb-b4bd-a810f5c828dd",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "9258e267-6c09-4a65-a6ab-fa2313ead03e",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "PPRS S Trail",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#840000",
+                "title": "Witcher Pond Rd",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003746000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003910000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.99
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3260429515219,
@@ -14376,28 +14451,29 @@
                         -105.311642486878,
                         38.8600640764483
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "9258e267-6c09-4a65-a6ab-fa2313ead03e",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "928a4fea-d951-4439-87fd-bed23c155408",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#840000",
-                "title": "Witcher Pond Rd",
-                "stroke": "#840000",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "HT to Hidden Campfire",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003910000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003475000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.28
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3282451927383,
@@ -14467,28 +14543,29 @@
                         -105.3319880333617,
                         38.88897660252936
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "928a4fea-d951-4439-87fd-bed23c155408",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "9606a63c-1c28-44c1-9ffa-b90692b73601",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "HT to Hidden Campfire",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#0040C2",
+                "title": "Little Blue Trail",
+                "stroke": "#0040C2",
+                "fill-opacity": 0.1,
                 "class": "Shape",
-                "updated": 1653003475000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003652000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.32
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3323563206043,
@@ -14978,28 +15055,29 @@
                         -105.3270448194188,
                         38.89410064350174
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "9606a63c-1c28-44c1-9ffa-b90692b73601",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "9df49aa4-d8a8-4bbf-be96-af18737ea750",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#0040C2",
-                "title": "Little Blue Trail",
-                "stroke": "#0040C2",
-                "fill-opacity": 0.1,
+                "fill": "#EC7600",
+                "title": "Wild Goat Lower Trail",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003652000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003900000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.45
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3392420413022,
@@ -15149,28 +15227,29 @@
                         -105.3416896242277,
                         38.85702711832298
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "9df49aa4-d8a8-4bbf-be96-af18737ea750",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "9f9a6eb6-3c18-465b-9b04-145209ea0f27",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Wild Goat Lower Trail",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#311700",
+                "title": "HT to TOW/A-Bluff Intersection",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003900000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003594000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.18
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3287224086574,
@@ -15244,28 +15323,29 @@
                         -105.3289743379955,
                         38.88616601445086
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "9f9a6eb6-3c18-465b-9b04-145209ea0f27",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "a2a3ad7e-7280-4a63-bcb4-6319cda18639",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#311700",
-                "title": "HT to TOW/A-Bluff Intersection",
+                "title": "HT to Interbarn",
                 "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003594000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003479000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.2
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.328148704254,
@@ -15343,28 +15423,29 @@
                         -105.3277782242104,
                         38.89312569804041
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "a2a3ad7e-7280-4a63-bcb4-6319cda18639",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "ad8e899e-a033-4127-9749-2873732a4f6d",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#311700",
-                "title": "HT to Interbarn",
-                "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "Wild Goat Upper Trail",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003479000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003905000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.12
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3403241814878,
@@ -15434,28 +15515,29 @@
                         -105.3419350816771,
                         38.85733446697344
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "ad8e899e-a033-4127-9749-2873732a4f6d",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "ae117851-e945-4c3f-aa7a-802e082b7e79",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "Wild Goat Upper Trail",
+                "title": "BOBROD to 1st CG",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003905000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003289000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.67
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3159601977185,
@@ -15705,28 +15787,29 @@
                         -105.3099438253912,
                         38.88504351529581
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "ae117851-e945-4c3f-aa7a-802e082b7e79",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "BOBROD to 1st CG",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003289000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "b35796ed-8a0e-4f85-b841-9366ba9cde25",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 3,
+                "fill": "#840000",
+                "title": "Hercules Dr",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003467000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.39
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3281257145621,
@@ -15820,28 +15903,29 @@
                         -105.3234787890769,
                         38.90030220341129
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "b35796ed-8a0e-4f85-b841-9366ba9cde25",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 3,
-                "fill": "#840000",
-                "title": "Hercules Dr",
-                "stroke": "#840000",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003467000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "b6cf61e9-5977-4058-ac3d-ba32e9fd9b14",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#311700",
+                "title": "HT to Crystal Beds via B-Bluff",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003471000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.45
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3281467895449,
@@ -16007,28 +16091,29 @@
                         -105.3336110866352,
                         38.88443290000577
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "b6cf61e9-5977-4058-ac3d-ba32e9fd9b14",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "b8d001a6-7ffd-495b-8304-8526493de038",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#311700",
-                "title": "HT to Crystal Beds via B-Bluff",
-                "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill": "#840000",
+                "title": "Sue Rocks Rd",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003471000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003810000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.12
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3230088795781,
@@ -16398,28 +16483,29 @@
                         -105.3072722666735,
                         38.90371908985578
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "b8d001a6-7ffd-495b-8304-8526493de038",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "bb7af1a7-7149-4059-8fd2-b716cafed7e3",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#840000",
-                "title": "Sue Rocks Rd",
-                "stroke": "#840000",
-                "fill-opacity": 0,
+                "fill": "#311700",
+                "title": "Lost Lake to Tick Track",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003810000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003658000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.95
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3529033199145,
@@ -16769,28 +16855,29 @@
                         -105.3434298617716,
                         38.88644997282722
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "bb7af1a7-7149-4059-8fd2-b716cafed7e3",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "c06c3dc1-3891-4f79-9ead-a6faea30723f",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#311700",
-                "title": "Lost Lake to Tick Track",
-                "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "Prospector Meadow to TOW",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003658000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003750000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.85
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3378099591141,
@@ -16996,28 +17083,29 @@
                         -105.3374388519767,
                         38.87712208149293
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "c06c3dc1-3891-4f79-9ead-a6faea30723f",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Prospector Meadow to TOW",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003750000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "c35fc517-30e2-410a-8573-bfb4e6eac4ff",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 3,
+                "fill": "#840000",
+                "title": "Business Line Rd",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003328000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.74
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3269688283389,
@@ -17223,28 +17311,29 @@
                         -105.332489502557,
                         38.89880294028451
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "c35fc517-30e2-410a-8573-bfb4e6eac4ff",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 3,
-                "fill": "#840000",
-                "title": "Business Line Rd",
-                "stroke": "#840000",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003328000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "c9048ed5-3066-494b-8c4a-e13a238d65fa",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#FF0B0B",
+                "title": "Red Star Trail",
+                "stroke": "#FF0B0B",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003766000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.83
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3246376105945,
@@ -17878,28 +17967,29 @@
                         -105.3277810533817,
                         38.89313103593623
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "c9048ed5-3066-494b-8c4a-e13a238d65fa",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "ca266718-b9f8-4ba8-bae4-197a66385f4b",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#FF0B0B",
-                "title": "Red Star Trail",
-                "stroke": "#FF0B0B",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "Main Gate Covered Wagon Trail",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003766000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003721000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.32
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3270303942843,
@@ -18021,28 +18111,29 @@
                         -105.322744481141,
                         38.90406549996742
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "ca266718-b9f8-4ba8-bae4-197a66385f4b",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "d37a2d43-5937-463d-99fb-ea20d2ec3d6b",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Main Gate Covered Wagon Trail",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#000096",
+                "title": "BOBROD Wheelin' Trail (East)",
+                "stroke": "#000096",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003721000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003300000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.22
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3159475693453,
@@ -18556,28 +18647,29 @@
                         -105.317358322233,
                         38.8992579213216
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "d37a2d43-5937-463d-99fb-ea20d2ec3d6b",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#000096",
-                "title": "BOBROD Wheelin' Trail (East)",
-                "stroke": "#000096",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003300000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "d4772d9c-4d8c-4aa2-93a7-9450d466385d",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 3,
+                "fill": "#840000",
+                "title": "Fish Creek Rd",
+                "stroke": "#840000",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003452000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 2.35
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3716718231588,
@@ -19295,28 +19387,29 @@
                         -105.3611525619351,
                         38.90258703103602
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "d4772d9c-4d8c-4aa2-93a7-9450d466385d",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 3,
-                "fill": "#840000",
-                "title": "Fish Creek Rd",
-                "stroke": "#840000",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003452000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "d724e3db-ae32-4d03-845a-ccfd0e3cf5b9",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#EC7600",
+                "title": "Fish Creek Rd to Old Stagecoach Rd",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003458000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.55
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.361233169615,
@@ -19430,28 +19523,29 @@
                         -105.3520300859236,
                         38.88541278792602
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "d724e3db-ae32-4d03-845a-ccfd0e3cf5b9",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "e4ab7423-1d57-4c3d-8e21-00a564e9c445",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "Fish Creek Rd to Old Stagecoach Rd",
+                "title": "Beyond A-Bluff to Old Witcher Rd",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003458000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003274000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.89
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3300690308394,
@@ -19661,28 +19755,29 @@
                         -105.3337760222884,
                         38.87343276677316
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "e4ab7423-1d57-4c3d-8e21-00a564e9c445",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Beyond A-Bluff to Old Witcher Rd",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003274000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "e631edfe-ddda-42af-88a9-340f8a5cd550",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 1,
+                "fill": "#EC7600",
+                "title": "North Witcher Ranch Gate to Bull Spring",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1652991989000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.46
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3275998052929,
@@ -19756,28 +19851,29 @@
                         -105.3234168537707,
                         38.87326555133
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "e631edfe-ddda-42af-88a9-340f8a5cd550",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 1,
-                "fill": "#EC7600",
-                "title": "North Witcher Ranch Gate to Bull Spring",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1652991989000,
-                "gpstype": "TRACK"
+                ]
             }
         },
         {
+            "type": "Feature",
+            "id": "e83641b7-c5d1-4083-bf2c-5807cc2074f0",
+            "properties": {
+                "stroke-opacity": "1",
+                "creator": "RD1BFJ",
+                "pattern": "solid",
+                "description": "",
+                "stroke-width": 2,
+                "fill": "#311700",
+                "title": "HT to Upper High Tor",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
+                "class": "Shape",
+                "updated": 1653003598000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.78
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3252436145901,
@@ -19967,28 +20063,29 @@
                         -105.3181304545288,
                         38.88148401977217
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "e83641b7-c5d1-4083-bf2c-5807cc2074f0",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "e85db18b-f19b-429b-a51e-8d0fe50d6e0f",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#311700",
-                "title": "HT to Upper High Tor",
-                "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill": "#EC7600",
+                "title": "North Mayo to South Mayo",
+                "stroke": "#EC7600",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003598000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003735000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.25
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3472109962245,
@@ -20042,28 +20139,29 @@
                         -105.3479007343201,
                         38.8656100914443
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "e85db18b-f19b-429b-a51e-8d0fe50d6e0f",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "e8b3b137-cb45-45c8-9550-a875b785806c",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#EC7600",
-                "title": "North Mayo to South Mayo",
+                "title": "Lost Lake Trail to North Mayo Spring",
                 "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003735000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003716000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.23
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3493442089904,
@@ -20145,28 +20243,29 @@
                         -105.3452653168256,
                         38.86867557906509
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "e8b3b137-cb45-45c8-9550-a875b785806c",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "ea693e2a-4940-4237-a3fe-24f239b7b84b",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
-                "fill": "#EC7600",
-                "title": "Lost Lake Trail to North Mayo Spring",
-                "stroke": "#EC7600",
-                "fill-opacity": 0,
+                "fill": "#311700",
+                "title": "Stagecoach Rd to CR 98",
+                "stroke": "#311700",
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003716000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003801000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.53
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3327930835092,
@@ -20704,28 +20803,29 @@
                         -105.343138803487,
                         38.92139346033733
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "ea693e2a-4940-4237-a3fe-24f239b7b84b",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "f5947cd2-a1f9-46d8-a1f3-fb0d5e8ef387",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#311700",
-                "title": "Stagecoach Rd to CR 98",
+                "title": "North Pass",
                 "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003801000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003740000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.01
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3340798184213,
@@ -20955,28 +21055,29 @@
                         -105.3441455282372,
                         38.8924693811019
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "f5947cd2-a1f9-46d8-a1f3-fb0d5e8ef387",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "f9aae8f3-b4cf-41ca-93b5-723582519e79",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#311700",
-                "title": "North Pass",
+                "title": "Tick Track to the Bottlegate",
                 "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003740000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003851000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.3
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3517607384674,
@@ -21022,28 +21123,29 @@
                         -105.3549798261593,
                         38.89124741990624
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "f9aae8f3-b4cf-41ca-93b5-723582519e79",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "fb2e34c3-c4f0-4bc2-b821-15833aa27895",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#311700",
-                "title": "Tick Track to the Bottlegate",
+                "title": "Top of the World Trail",
                 "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003851000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003866000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 0.86
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3289742028209,
@@ -21317,28 +21419,29 @@
                         -105.3374696802195,
                         38.87707951494009
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "fb2e34c3-c4f0-4bc2-b821-15833aa27895",
+                ]
+            }
+        },
+        {
             "type": "Feature",
+            "id": "fdc37074-623c-44f3-b986-9c1e81a38b32",
             "properties": {
-                "stroke-opacity": 1,
+                "stroke-opacity": "1",
                 "creator": "RD1BFJ",
                 "pattern": "solid",
                 "description": "",
                 "stroke-width": 2,
                 "fill": "#311700",
-                "title": "Top of the World Trail",
+                "title": "TNP to Quick's Homestead",
                 "stroke": "#311700",
-                "fill-opacity": 0,
+                "fill-opacity": 0.0,
                 "class": "Shape",
-                "updated": 1653003866000,
-                "gpstype": "TRACK"
-            }
-        },
-        {
+                "updated": 1653003859000,
+                "gpstype": "TRACK",
+                "Lengh_Mi": 1.76
+            },
             "geometry": {
+                "type": "LineString",
                 "coordinates": [
                     [
                         -105.3227427160693,
@@ -22008,24 +22111,7 @@
                         -105.3144268459572,
                         38.8873465508136
                     ]
-                ],
-                "type": "LineString"
-            },
-            "id": "fdc37074-623c-44f3-b986-9c1e81a38b32",
-            "type": "Feature",
-            "properties": {
-                "stroke-opacity": 1,
-                "creator": "RD1BFJ",
-                "pattern": "solid",
-                "description": "",
-                "stroke-width": 2,
-                "fill": "#311700",
-                "title": "TNP to Quick's Homestead",
-                "stroke": "#311700",
-                "fill-opacity": 0,
-                "class": "Shape",
-                "updated": 1653003859000,
-                "gpstype": "TRACK"
+                ]
             }
         }
     ]
