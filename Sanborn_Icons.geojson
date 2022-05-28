@@ -86,7 +86,7 @@
             "id": "19f80247-ec5e-4499-9bd8-9f9e3aea74af",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-gray",
+                "marker-symbol": "village-square",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -182,7 +182,7 @@
             "id": "34f7c9a2-2eef-4fe7-8d1a-6f689ca5a6ae",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-gray",
+                "marker-symbol": "village-square",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -230,7 +230,7 @@
             "id": "3ac16b1f-1bc8-459a-bf77-68e73e5e740b",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-gray",
+                "marker-symbol": "village-square",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -302,7 +302,7 @@
             "id": "64c24e9b-f4a0-4a2a-bec0-b797a6a606d1",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-gray",
+                "marker-symbol": "village-square",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -326,7 +326,7 @@
             "id": "691ecf40-8ee0-446e-a2a7-09264ccac48e",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-gray",
+                "marker-symbol": "village-square",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -518,7 +518,7 @@
             "id": "868f0069-091a-482f-a7a3-d0b6cd5f0d85",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-gray",
+                "marker-symbol": "village-square",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -542,7 +542,7 @@
             "id": "86b823a0-2fe1-468d-ad39-840acb24f850",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-gray",
+                "marker-symbol": "village-square",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1070,7 +1070,7 @@
             "id": "bf132f45-a36b-4b80-add9-a1388e44a12a",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-gray",
+                "marker-symbol": "village-square",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1094,7 +1094,7 @@
             "id": "c2a6bf6d-72fe-4add-9546-69bdc7f06c87",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-gray",
+                "marker-symbol": "village-square",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
@@ -1286,7 +1286,7 @@
             "id": "ebe239a3-35c5-4d2c-b50b-28827e891112",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "village-gray",
+                "marker-symbol": "village-square",
                 "creator": "RD1BFJ",
                 "marker-color": "#00CD00",
                 "description": "",
