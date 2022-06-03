@@ -206,7 +206,7 @@
             "id": "34feaf48-0304-4c60-bfdd-1dda3c2950e8",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-gold",
+                "marker-symbol": "star-gold-blk",
                 "creator": "RD1BFJ",
                 "marker-color": "#000000",
                 "description": "",
@@ -278,7 +278,7 @@
             "id": "57c4a1c4-3512-44af-bb90-4f330992711f",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-gold",
+                "marker-symbol": "star-gold-blk",
                 "creator": "RD1BFJ",
                 "marker-color": "#000000",
                 "description": "",
@@ -638,7 +638,7 @@
             "id": "8d207105-f79c-4fc1-9d9e-d47a17e3475a",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-gold",
+                "marker-symbol": "star-gold-blk",
                 "creator": "RD1BFJ",
                 "marker-color": "#000000",
                 "description": "",
@@ -950,7 +950,7 @@
             "id": "a733eaeb-dc06-471c-846e-4db2775ed250",
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-gold",
+                "marker-symbol": "star-gold-blk",
                 "creator": "RD1BFJ",
                 "marker-color": "#000000",
                 "description": "",
