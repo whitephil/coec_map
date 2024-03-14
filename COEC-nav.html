@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>COEC Navigation</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<style>
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+a:link {
+color: #a6a6a6;
+}
+a:visited {
+color: #a6a6a6;
+}
+a:hover {
+color: #a6a6a6;
+}
+#menu {
+    position: absolute;
+    color: #000000;
+    left: 45px;
+    top: 10px;
+    background-color: #FFFFFF;
+    opacity: 1;
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 75%;
+    border-radius: 3px;
+}
+
+#attribution {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.7);
+  font-family: 'Open Sans', sans-serif;
+  color: #FFFFFF;
+  background-color: #000000;
+  padding: 5px;
+  font-size: 70%;
+  opacity: 0.82;
+  border-radius: 3px;
+}
+
+.mapboxgl-popup-content {
+  padding: 10px 10px 0px
+}
+
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div id='menu'>
+    <input id='cl3oylgwz002314pi2jpfdo6d' type='radio' name='rtoggle' value='topo' checked='checked'>
+    <label for='topo'>topo</label>
+    <input id='cl3orz0ha000015nz151r68je' type='radio' name='rtoggle' value='satellite'>
+    <label for='satellite'>satellite</label>
+</div>
+<div id='attribution'>
+  © <a href= "http://www.openstreetmap.org/about/" target = "_blank">OpenStreetMap</a> <strong>
+</div>
+
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1IjoicGhpbHdoaXRlIiwiYSI6ImNqMDFxcXh5ZjA3ZzkzMnFyeGU5bjFodnoifQ.rTatk-sWYhNaoRAc5Rfhjw';
+    const map = new mapboxgl.Map({
+        container: 'map', // container ID
+        style: 'mapbox://styles/philwhite/cl3oylgwz002314pi2jpfdo6d', // style URL
+        center: [-105.323739, 38.894106], // starting position
+        zoom: 13.5, // starting zoom
+        attributionControl: false
+    });
+
+    var nav = new mapboxgl.NavigationControl();
+
+    // Add geolocate control to the map.
+    const geolocate = new mapboxgl.GeolocateControl({
+        positionOptions: {
+            enableHighAccuracy: true
+        },
+        trackUserLocation: true,
+        showAccuracyCircle: false,
+        showUserHeading: true
+    });
+    // Add the control to the map.
+    map.addControl(geolocate);
+    map.on('load', () => {
+        geolocate.trigger();
+    });
+    map.addControl(nav, 'top-left');
+
+    map.on('load',
+      function() {
+        loadlayers()
+
+      var layerList = document.getElementById('menu');
+      var inputs = layerList.getElementsByTagName('input');
+
+      function switchLayer(layer) {
+        var layerId = layer.target.id;
+        map.setStyle('mapbox://styles/philwhite/' + layerId);
+        map.on('style.load', function() {
+          loadlayers();
+        });
+      }
+
+      for (var i = 0; i < inputs.length; i++) {
+        inputs[i].onclick = switchLayer;
+      }
+
+    });
+
+    map.on('mousemove', 'trails_click_layer', function () {
+      map.getCanvas().style.cursor = 'pointer';
+    });
+
+    map.on('mouseleave', 'trails_click_layer', function () {
+      map.getCanvas().style.cursor = '';
+    });
+
+    map.on('click', 'trails_click_layer', function (e) {
+
+      new mapboxgl.Popup({ closeOnClick: true })
+      .setLngLat(e.lngLat)
+      .setHTML('<h4>' + e.features[0].properties.title + '</h4><p>Segment Length: ' + e.features[0].properties.Length_Mi +' mi</p>')
+      .addTo(map);
+    });
+
+    function loadlayers() {
+      map.addSource('Sanborn_Lines', {
+          type: 'geojson',
+          data: 'https://raw.githubusercontent.com/outpw/coec_map/main/Sanborn_Lines.geojson'
+      });
+
+      map.addLayer({
+          'id': 'trails_click_layer',
+          'type': 'line',
+          'source': 'Sanborn_Lines',
+          'layout': {
+              'visibility': 'visible'
+          },
+          'paint': {
+            'line-color': '#ffffff',
+            'line-width': 15,
+            'line-opacity':0.1,
+          },
+      });
+
+      map.addLayer({
+          'id': 'trails_outline',
+          'type': 'line',
+          'source': 'Sanborn_Lines',
+          'layout': {
+              'visibility': 'visible'
+          },
+          'paint': {
+            'line-color': '#FFFFFF',
+            'line-width': 3.5
+          },
+      });
+
+      map.addLayer({
+          'id': 'trails',
+          'type': 'line',
+          'source': 'Sanborn_Lines',
+          'layout': {
+              'visibility': 'visible'
+          },
+          'paint': {
+            'line-color': ['get','stroke'],
+            'line-width': 2
+          },
+      });
+
+      map.addSource('Sanborn_Points', {
+          type: 'geojson',
+          data: 'https://raw.githubusercontent.com/outpw/coec_map/main/Sanborn_Icons.geojson'
+      });
+
+      map.addLayer({
+          'id': 'POI_labels',
+          'type': 'symbol',
+          'source': 'Sanborn_Points',
+          'layout': {
+              'icon-image': ['get','marker-symbol'],
+              'icon-size': 1,
+              'text-field':['get','title'],
+              'text-variable-anchor': ['top', 'bottom', 'left', 'right'],
+              'text-radial-offset': 0.5,
+              'text-size': 14,
+          },
+          'paint': {
+            'text-color': '#FFFFFF',
+            'text-halo-width': 1,
+            'text-halo-color': '#000000',
+          },
+      });
+
+    }
+
+</script>
+
+</body>
+</html>
